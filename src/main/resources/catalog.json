@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Rubber Duck",
+    "description": "Your resident conversationalist",
+    "price": "4.99",
+    "featured": "true",
+    "category_name": "Toys"
+  },
+  {
+    "name": "Engineering Journal",
+    "description": "Record your observations and thoughts as you work through coding projects",
+    "price": "7.99",
+    "featured": "true",
+    "category_name": "Productivity"
+  },
+  {
+    "name": "Sleep Mask",
+    "description": "Get your Z's in so that you can code well in the morning",
+    "price": "9.99",
+    "featured": "false",
+    "category_name": "Productivity"
+  }
+]
